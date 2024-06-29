@@ -1,3 +1,3 @@
 # C_basics
-Prerequisites for Embedded C
+Prerequisites in C
 Author : "Aboli Ahirrao"
