@@ -1,4 +1,4 @@
-/*E3.1*/
+/*check how specific data typese works block by block*/
 #include<stdio.h>
 #include<float.h>		//range and pricision of floating point is given in this header...these valuses can be compiler dependent
 #include<limits.h> //for INT_MAX,INT_MIN, ranges for integers is mantioned in this header ...these are compiler dependent
